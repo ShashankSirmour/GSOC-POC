@@ -60,7 +60,7 @@ in app model used for Prototype
 ```
 Care 
     attributes ment to store
-    - to stoe hostpital name and informtion
+    - to store hostpital name and informtion
     - longitude ,latitude
     - cost of care
 ```
