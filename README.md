@@ -2,7 +2,7 @@
 
 patient friendly costs of care is an iOS and Android app build with Flutter. 
 
-The app is a personal healthcare helper that allows you to find nearest patient friendly costs of care by scraping healthcare details.
+The app is a personal healthcare helper that allows you to find nearest patient friendly costs of care by scraping healthcare details from the official sites.
 
 <p align="center">
   <img src="https://github.com/benoitletondor/Beer-Me-Up/raw/develop/sc1.png" width="250"/>
