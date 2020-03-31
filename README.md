@@ -58,8 +58,9 @@ query:
 in app model used for Prototype
 
 ```
-Care
-    - to stoe hostpital name and ifo
+Care 
+    attributes ment to store
+    - to stoe hostpital name and informtion
     - longitude ,latitude
     - cost of care
 ```
