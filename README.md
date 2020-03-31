@@ -57,11 +57,12 @@ query:
 
 in app model used for Prototype
 
+```
 Care
     - to stoe hostpital name and ifo
     - longitude ,latitude
     - cost of care
-
+```
 ## Run the App
 MemeChat can be run like any other Flutter app, either through the IntelliJ UI or through running the following command from within the MemeChat directory:
 
