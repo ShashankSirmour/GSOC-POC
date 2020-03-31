@@ -30,6 +30,7 @@ The app is made with Flutter with the following tech stack:
 - Flutter: [https://flutter.io/](https://flutter.io/)
  
 #### packages used
+
   cupertino_icons: ^0.1.2
   bubble_bottom_bar: ^1.2.0
   auto_size_text: ^2.1.0
