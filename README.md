@@ -6,6 +6,10 @@ The app is a personal healthcare helper that allows you to find nearest patient 
 
 <p align="center">
   <img src="https://github.com/ShashankSirmour/GSOC-POC/blob/master/screenshots/img1.jpg?raw=true" width="250"/>
+  <img src="https://github.com/ShashankSirmour/GSOC-POC/blob/master/screenshots/img2.jpg?raw=true" width="250"/>
+  <img src="https://github.com/ShashankSirmour/GSOC-POC/blob/master/screenshots/img3.jpg?raw=true" width="250"/>
+
+
 
 </p>
 
