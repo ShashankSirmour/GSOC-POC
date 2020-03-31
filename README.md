@@ -1,4 +1,4 @@
-#Patient Friendly Costs of Care POC
+# Patient Friendly Costs of Care POC
 
 patient friendly costs of care is an iOS and Android app build with Flutter. 
 
